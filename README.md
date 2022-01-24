@@ -1,4 +1,4 @@
-# CSC-401
+# - Computer Science Practicum 401
 Project 1: Preliminaries of Javascript and HTML:
 Look at https://www.cs.miami.edu/home/burt/learning/Math119/js-NumberBuild.html Number
 Build (Number Build). Make a webpage like Number Build using Javascript, except that if a user
